@@ -14,8 +14,8 @@ It uses vanilla JavaScript, HTML and CSS. Flexbox is what makes it responsive.
 
 ### Screenshots
 #### Desktop
-![Imgur](https://imgur.com/XePgbJx)
-![Imgur](https://imgur.com/AeuTDy1)
+![Imgur](https://i.imgur.com/XePgbJx.png)
+![Imgur](https://i.imgur.com/AeuTDy1.png)
 #### Mobile 
-![Imgur](https://imgur.com/K0zXrFM)
-![Imgur](https://imgur.com/74ZIh5z)
+![Imgur](https://i.imgur.com/K0zXrFM.png)
+![Imgur](https://i.imgur.com/74ZIh5z.png)

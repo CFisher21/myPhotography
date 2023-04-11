@@ -28,18 +28,18 @@ h1 {
 }
 
 .container{
-    display: grid;
-    justify-items: center;
-    grid-template-columns: 2fr 2fr 2fr;
-    margin-left: 13.1vw;
-    margin-right: 13.1vw;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 8px;
 }
 
 .container img {
     width: 400px;
     height: 225px;
     object-fit: cover;
-    margin: 8px;
     border: 1px solid rgb(255, 255, 255);
     border-radius: 2px;
     cursor: pointer;
@@ -75,4 +75,14 @@ body {
     max-height: 80%;
     background-color: black;
     border: 2px solid white;
+}
+
+/* @media screens */
+
+@media (max-width: 821px) { 
+    
+    .container img { 
+        width: 350px;
+        height: 196px;
+    }
 }
